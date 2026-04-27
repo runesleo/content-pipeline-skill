@@ -1,5 +1,9 @@
 # content-pipeline-skill
 
+**中文:** [README.md](./README.md)
+
+---
+
 A single-file Claude Code skill. The **`/pipeline` command family** runs **Research → Ideate → Write → Queue**: research notes on disk, hook angles, drafts, and a `content-queue.json` state machine, all spelled out in `SKILL.md`.
 
 ## When to use
