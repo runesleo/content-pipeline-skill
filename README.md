@@ -1,5 +1,9 @@
 # content-pipeline-skill
 
+**English:** [README.en.md](./README.en.md)
+
+---
+
 单文件 Claude Code Skill：用 **`/pipeline` 命令族** 驱动 **Research → Ideate → Write → Queue** 四阶段，把选题做成带研究文件、钩子角、正文草稿与 `content-queue.json` 状态机的可审队列（流程与数据模型见 `SKILL.md`）。
 
 ## When to use
